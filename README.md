@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Hacktoberfest 2025 Contributor](https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png)](https://cloud.layer5.io/user/2fd9ee11-68ba-4d8d-9242-db2c03c751d4?tab=badges&badge=hacktoberfest25)
-
 <p align="left">
   <a href="https://cloud.layer5.io/user/2fd9ee11-68ba-4d8d-9242-db2c03c751d4?tab=badges&badge=hacktoberfest25">
     <img src="https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2025/hacktoberfest25-badge.png" alt="Hacktoberfest 2025 Contributor" width="140">
